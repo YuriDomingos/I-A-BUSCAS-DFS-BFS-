@@ -1,7 +1,5 @@
 /*
 @Autor : Yuri Domingos
-Orientador : Msc.Eng : Solander Agostinho 
-Disciplina : Sistemas Inteligentes 1 
 Data   : 19 -10 -2020
 
 Objectivo : Implementar as funcoes necessárias para realizar o percurso exaustivo de um grafo
