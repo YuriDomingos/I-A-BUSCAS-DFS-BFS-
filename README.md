@@ -1,5 +1,5 @@
 
-@Autor : Yuri Domingos E1000021711
+@Autor : Yuri Domingos 
 Data   : 23 -10 -2020
 UCAN   : Universidade Católica de Angola
 
